@@ -1,0 +1,182 @@
+Vertex
+0,Downsview
+0,Yorkdale
+0,Glencairn
+0,Wilson
+0,Lawrence West
+0,Eglinton West
+0,St. Claire West
+0,Dupont
+0,Spadina
+0,Museum
+0,Queen's Park
+0,St. Patrick
+0,Osgoode
+0,St. Andrew
+0,Union
+0,King
+0,Queen
+0,Dundas
+0,College
+0,Wellesley
+0,Sherbourne
+1,Bloor Yonge
+0,Rosedale
+0,Summerhill
+0,St. Claire
+0,Davisville
+0,Eglinton
+0,Lawrence
+0,York Mills
+0,Sheppard
+0,North York
+0,Finch
+0,Kipling
+0,Islington
+0,Royal York
+0,Old Mill
+0,Jane
+0,Runnymede
+0,High Park
+0,Keele
+0,Dundas West
+0,Lansdowne
+0,Differin
+0,Ossington
+0,Christie
+0,Bathurst
+1,St. George
+0,Bay
+0,Castle Frank
+0,Broadsview
+0,Chester
+0,Pape
+0,Donlands
+0,Greenwood
+0,Coxwell
+0,Woodbine
+0,Main Street
+0,Victoria Park
+0,Warden
+0,Kennedy
+Edge
+Downsview,Wilson,Downsview-Wilson,Downsview-Wilson,0,30.00,6.00
+Yorkdale,Wilson,Yorkdale-Wilson,Yorkdale-Wilson,0,30.00,10.00
+Glencairn,Eglinton West,Glencairn-Eglinton West,Glencairn-Eglinton West,0,30.00,20.00
+Glencairn,Lawrence West,Glencairn-Lawrence West,Glencairn-Lawrence West,0,30.00,11.00
+Wilson,Yorkdale,Wilson-Yorkdale,Wilson-Yorkdale,0,30.00,10.00
+Wilson,Downsview,Wilson-Downsview,Wilson-Downsview,0,30.00,6.00
+Lawrence West,Glencairn,Lawrence West-Glencairn,Lawrence West-Glencairn,0,30.00,11.00
+Eglinton West,St. Claire West,Eglinton West-St. Claire West,Eglinton West-St. Claire West,0,30.00,1.00
+Eglinton West,Glencairn,Eglinton West-Glencairn,Eglinton West-Glencairn,0,30.00,20.00
+St. Claire West,Dupont,St. Claire West-Dupont,St. Claire West-Dupont,0,30.00,10.00
+St. Claire West,Eglinton West,St. Claire West-Eglinton West,St. Claire West-Eglinton West,0,30.00,1.00
+Dupont,St. Claire,Dupont-St. Claire,Dupont-St. Claire,0,30.00,6.00
+Dupont,Spadina,Dupont-Spadina,Dupont-Spadina,0,30.00,20.00
+Dupont,St. Claire West,Dupont-St. Claire West,Dupont-St. Claire West,0,30.00,10.00
+Spadina,St. George,Spadina-St. George,Spadina-St. George,0,30.00,7.00
+Spadina,Dupont,Spadina-Dupont,Spadina-Dupont,0,30.00,20.00
+Museum,Queen's Park,Museum-Queen's Park,Museum-Queen's Park,0,30.00,2.00
+Museum,St. George,Museum-St. George,Museum-St. George,0,30.00,9.00
+Queen's Park,St. Patrick,Queen's Park-St. Patrick,Queen's Park-St. Patrick,0,30.00,3.00
+Queen's Park,Museum,Queen's Park-Museum,Queen's Park-Museum,0,30.00,2.00
+St. Patrick,Osgoode,St. Patrick-Osgoode,St. Patrick-Osgoode,0,30.00,4.00
+St. Patrick,Queen's Park,St. Patrick-Queen's Park,St. Patrick-Queen's Park,0,30.00,3.00
+Osgoode,St. Andrew,Osgoode-St. Andrew,Osgoode-St. Andrew,0,30.00,5.00
+Osgoode,St. Patrick,Osgoode-St. Patrick,Osgoode-St. Patrick,0,30.00,4.00
+St. Andrew,Union,St. Andrew-Union,St. Andrew-Union,0,30.00,9.00
+St. Andrew,Osgoode,St. Andrew-Osgoode,St. Andrew-Osgoode,0,30.00,5.00
+Union,King,Union-King,Union-King,0,30.00,1.00
+Union,St. Andrew,Union-St. Andrew,Union-St. Andrew,0,30.00,9.00
+King,Queen,King-Queen,King-Queen,0,30.00,6.00
+King,Union,King-Union,King-Union,0,30.00,1.00
+Queen,Dundas,Queen-Dundas,Queen-Dundas,0,30.00,6.00
+Queen,King,Queen-King,Queen-King,0,30.00,6.00
+Dundas,Pape,Dundas-Pape,Dundas-Pape,0,30.00,6.00
+Dundas,College,Dundas-College,Dundas-College,0,30.00,6.00
+Dundas,Queen,Dundas-Queen,Dundas-Queen,0,30.00,6.00
+College,Wellesley,College-Wellesley,College-Wellesley,0,30.00,6.00
+College,Dundas,College-Dundas,College-Dundas,0,30.00,6.00
+Wellesley,Bloor Yonge,Wellesley-Bloor Yonge,Wellesley-Bloor Yonge,0,30.00,6.00
+Wellesley,College,Wellesley-College,Wellesley-College,0,30.00,6.00
+Sherbourne,Castle Frank,Sherbourne-Castle Frank,Sherbourne-Castle Frank,0,30.00,6.00
+Sherbourne,Bloor Yonge,Sherbourne-Bloor Yonge,Sherbourne-Bloor Yonge,0,30.00,6.00
+Bloor Yonge,Sherbourne,Bloor Yonge-Sherbourne,Bloor Yonge-Sherbourne,0,30.00,6.00
+Bloor Yonge,Bay,Bloor Yonge-Bay,Bloor Yonge-Bay,0,30.00,6.00
+Bloor Yonge,Rosedale,Bloor Yonge-Rosedale,Bloor Yonge-Rosedale,0,30.00,6.00
+Bloor Yonge,Wellesley,Bloor Yonge-Wellesley,Bloor Yonge-Wellesley,0,30.00,6.00
+Rosedale,Summerhill,Rosedale-Summerhill,Rosedale-Summerhill,0,30.00,6.00
+Rosedale,Bloor Yonge,Rosedale-Bloor Yonge,Rosedale-Bloor Yonge,0,30.00,6.00
+Summerhill,St. Claire,Summerhill-St. Claire,Summerhill-St. Claire,0,30.00,6.00
+Summerhill,Rosedale,Summerhill-Rosedale,Summerhill-Rosedale,0,30.00,6.00
+St. Claire,Dupont,St. Claire-Dupont,St. Claire-Dupont,0,30.00,6.00
+St. Claire,Davisville,St. Claire-Davisville,St. Claire-Davisville,0,30.00,6.00
+St. Claire,Summerhill,St. Claire-Summerhill,St. Claire-Summerhill,0,30.00,6.00
+Davisville,Eglinton,Davisville-Eglinton,Davisville-Eglinton,0,30.00,6.00
+Davisville,St. Claire,Davisville-St. Claire,Davisville-St. Claire,0,30.00,6.00
+Eglinton,Lawrence,Eglinton-Lawrence,Eglinton-Lawrence,0,30.00,6.00
+Eglinton,Davisville,Eglinton-Davisville,Eglinton-Davisville,0,30.00,6.00
+Lawrence,York Mills,Lawrence-York Mills,Lawrence-York Mills,0,30.00,6.00
+Lawrence,Eglinton,Lawrence-Eglinton,Lawrence-Eglinton,0,30.00,6.00
+York Mills,Sheppard,York Mills-Sheppard,York Mills-Sheppard,0,30.00,6.00
+York Mills,Lawrence,York Mills-Lawrence,York Mills-Lawrence,0,30.00,6.00
+Sheppard,North York,Sheppard-North York,Sheppard-North York,0,30.00,6.00
+Sheppard,York Mills,Sheppard-York Mills,Sheppard-York Mills,0,30.00,6.00
+North York,Finch,North York-Finch,North York-Finch,0,30.00,6.00
+North York,Sheppard,North York-Sheppard,North York-Sheppard,0,30.00,6.00
+Finch,North York,Finch-North York,Finch-North York,0,30.00,6.00
+Kipling,Islington,Kipling-Islington,Kipling-Islington,0,30.00,6.00
+Islington,Royal York,Islington-Royal York,Islington-Royal York,0,30.00,6.00
+Islington,Kipling,Islington-Kipling,Islington-Kipling,0,30.00,6.00
+Royal York,Old Mill,Royal York-Old Mill,Royal York-Old Mill,0,30.00,6.00
+Royal York,Islington,Royal York-Islington,Royal York-Islington,0,30.00,6.00
+Old Mill,Jane,Old Mill-Jane,Old Mill-Jane,0,30.00,6.00
+Old Mill,Royal York,Old Mill-Royal York,Old Mill-Royal York,0,30.00,6.00
+Jane,Runnymede,Jane-Runnymede,Jane-Runnymede,0,30.00,6.00
+Jane,Old Mill,Jane-Old Mill,Jane-Old Mill,0,30.00,6.00
+Runnymede,High Park,Runnymede-High Park,Runnymede-High Park,0,30.00,6.00
+Runnymede,Jane,Runnymede-Jane,Runnymede-Jane,0,30.00,6.00
+High Park,Keele,High Park-Keele,High Park-Keele,0,30.00,6.00
+High Park,Runnymede,High Park-Runnymede,High Park-Runnymede,0,30.00,6.00
+Keele,High Park,Keele-High Park,Keele-High Park,0,30.00,6.00
+Dundas West,Lansdowne,Dundas West-Lansdowne,Dundas West-Lansdowne,0,30.00,6.00
+Lansdowne,Differin,Lansdowne-Differin,Lansdowne-Differin,0,30.00,6.00
+Lansdowne,Dundas West,Lansdowne-Dundas West,Lansdowne-Dundas West,0,30.00,6.00
+Differin,Ossington,Differin-Ossington,Differin-Ossington,0,30.00,6.00
+Differin,Lansdowne,Differin-Lansdowne,Differin-Lansdowne,0,30.00,6.00
+Ossington,Christie,Ossington-Christie,Ossington-Christie,0,30.00,6.00
+Ossington,Differin,Ossington-Differin,Ossington-Differin,0,30.00,6.00
+Christie,Bathurst,Christie-Bathurst,Christie-Bathurst,0,30.00,6.00
+Christie,Ossington,Christie-Ossington,Christie-Ossington,0,30.00,6.00
+Bathurst,St. George,Bathurst-St. George,Bathurst-St. George,0,30.00,6.00
+Bathurst,Christie,Bathurst-Christie,Bathurst-Christie,0,30.00,6.00
+St. George,Bay,St. George-Bay,St. George-Bay,0,30.00,6.00
+St. George,Bathurst,St. George-Bathurst,St. George-Bathurst,0,30.00,6.00
+St. George,Museum,St. George-Museum,St. George-Museum,0,30.00,9.00
+St. George,Spadina,St. George-Spadina,St. George-Spadina,0,30.00,7.00
+Bay,Bloor Yonge,Bay-Bloor Yonge,Bay-Bloor Yonge,0,30.00,6.00
+Bay,St. George,Bay-St. George,Bay-St. George,0,30.00,6.00
+Castle Frank,Broadsview,Castle Frank-Broadsview,Castle Frank-Broadsview,0,30.00,6.00
+Castle Frank,Sherbourne,Castle Frank-Sherbourne,Castle Frank-Sherbourne,0,30.00,6.00
+Broadsview,Chester,Broadsview-Chester,Broadsview-Chester,0,30.00,6.00
+Broadsview,Castle Frank,Broadsview-Castle Frank,Broadsview-Castle Frank,0,30.00,6.00
+Chester,Pape,Chester-Pape,Chester-Pape,0,30.00,6.00
+Chester,Broadsview,Chester-Broadsview,Chester-Broadsview,0,30.00,6.00
+Pape,Dundas,Pape-Dundas,Pape-Dundas,0,30.00,6.00
+Pape,Donlands,Pape-Donlands,Pape-Donlands,0,30.00,6.00
+Pape,Chester,Pape-Chester,Pape-Chester,0,30.00,6.00
+Donlands,Greenwood,Donlands-Greenwood,Donlands-Greenwood,0,30.00,6.00
+Donlands,Pape,Donlands-Pape,Donlands-Pape,0,30.00,6.00
+Greenwood,Coxwell,Greenwood-Coxwell,Greenwood-Coxwell,0,30.00,6.00
+Greenwood,Donlands,Greenwood-Donlands,Greenwood-Donlands,0,30.00,6.00
+Coxwell,Woodbine,Coxwell-Woodbine,Coxwell-Woodbine,0,30.00,6.00
+Coxwell,Greenwood,Coxwell-Greenwood,Coxwell-Greenwood,0,30.00,6.00
+Woodbine,Main Street,Woodbine-Main Street,Woodbine-Main Street,0,30.00,6.00
+Woodbine,Coxwell,Woodbine-Coxwell,Woodbine-Coxwell,0,30.00,6.00
+Main Street,Victoria Park,Main Street-Victoria Park,Main Street-Victoria Park,0,30.00,6.00
+Main Street,Woodbine,Main Street-Woodbine,Main Street-Woodbine,0,30.00,6.00
+Victoria Park,Warden,Victoria Park-Warden,Victoria Park-Warden,0,30.00,6.00
+Victoria Park,Main Street,Victoria Park-Main Street,Victoria Park-Main Street,0,30.00,6.00
+Warden,Kennedy,Warden-Kennedy,Warden-Kennedy,0,30.00,6.00
+Warden,Victoria Park,Warden-Victoria Park,Warden-Victoria Park,0,30.00,6.00
+Kennedy,Warden,Kennedy-Warden,Kennedy-Warden,0,30.00,6.00
